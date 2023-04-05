@@ -42,19 +42,19 @@ The dataset we will be working with is the famous flight departures dataset. The
 
 ### - Print the best result:
 
-a. 'target': 0.7437957745277676
+- 'target': 0.7437957745277676
 
-b. 'params': 'lambda_l1': 0.041819147371004145
+- 'params': 'lambda_l1': 0.041819147371004145
  
- c. 'lambda_l2': 0.021821284561502632
+- 'lambda_l2': 0.021821284561502632
   
- d. 'max_depth': 34.283687656153106
+- 'max_depth': 34.283687656153106
   
-  e. 'min_child_samples': 3428.2342923499978
+- 'min_child_samples': 3428.2342923499978
   
-  f. 'min_data_in_leaf': 1983.1789349865503
+ - 'min_data_in_leaf': 1983.1789349865503
   
-  g. 'num_leaves': 2265.9330311780527
+ - 'num_leaves': 2265.9330311780527
 
-The best results were using a iteration of 3.
+### The best results were using a iteration of 3 for the light GBM.
 
