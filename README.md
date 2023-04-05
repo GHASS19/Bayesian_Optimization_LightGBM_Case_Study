@@ -30,5 +30,9 @@ The first step is to create an optimizer. It uses two items:
 
 The dataset we will be working with is the famous flight departures dataset. There is a [train](https://github.com/GHASS19/Bayesian_Optimization_LightGBM_Case_Study/blob/main/Data/flight_delays_test%20(Bayesian_Optimization).csv) and [Test](https://github.com/GHASS19/Bayesian_Optimization_LightGBM_Case_Study/blob/main/Data/flight_delays_train%20(Bayesian_Optimization).csv) dataset. Our modeling goal will be to predict if a flight departure is going to be delayed by 15 minutes based on the other attributes in our dataset. As part of this modeling exercise, we will use Bayesian hyperparameter optimization to identify the best parameters for our model.
 
+- Load the two datasets
+- Explore the data
+- Feature Engineering for additional features for our model.
+- 
 
 
