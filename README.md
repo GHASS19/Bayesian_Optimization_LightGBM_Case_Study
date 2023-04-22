@@ -1,8 +1,8 @@
 # Bayesian Optimization LightGBM
 
-In addition to the random search and the grid search methods for selecting optimal hyperparameters, we can use Bayesian methods of probabilities to select the optimal hyperparameters for an algorithm.
+# In this case study, we will be using the BayesianOptimization library to perform hyperparmater tuning. I will Predict if a flight departure is going to be delayed by 15 minutes based on the variables and then find the best results.
 
-In this case study, we will be using the BayesianOptimization library to perform hyperparmater tuning.
+In addition to the random search and the grid search methods for selecting optimal hyperparameters, we can use Bayesian methods of probabilities to select the optimal hyperparameters for an algorithm.
 
 ## 1. How does Bayesian optimization work?
 
